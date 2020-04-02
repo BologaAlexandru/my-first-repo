@@ -1,30 +1,29 @@
-# This is a large heading
+# Bologa Alexandru
 
-## This is a smaller heading
+## UNIX course
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I really like working in **bash**.
+The UNIX Workbench Course provided by **John Hopkins University** is *awesome*.
 
-- This is
-- an unordered
-- list
+### Biology
 
-1. This is
-2. an ordered
-3. list
+*Drosophila melanogaster* is the best model organism **ever**.
+You can see it ![here](https://me.me/i/drosophila-melanogangster-2953027)
 
-Here is `some code` in the middle of a sentence.
+### Books
 
-```
-This is
-a block
-of code
-```
+Three of my favorite books are:
+- *Dune* by Frank Herbert
+- *White plague* by Frank Herbert
+- *Flowers for Algernon* by Daniel Keyes
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Music
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Top 5 music artist I love:
+
+1. 2pac
+2. Bob Marley
+3. Nate Dogg
+
 
 
